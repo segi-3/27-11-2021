@@ -1,0 +1,21 @@
+.section1 {
+    background-color: azure;
+}
+
+.lyric-par {
+    margin-top: 40px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.sc {
+    display: none;
+    font-weight: bold;
+    font-size: 9px;
+}
+
+.scE {
+    display: inline !important;
+}
