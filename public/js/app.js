@@ -1,4 +1,5 @@
-var audio = new Audio('http://localhost:80/asset/monsune-out-of-my-mind.mp3');
+// var audio = new Audio('http://localhost:80/asset/monsune-out-of-my-mind.mp3');
+var audio = new Audio('http://168.63.255.159/asset/monsune-out-of-my-mind.mp3');
 audio.volume = 0.1;
 
 var going = false
